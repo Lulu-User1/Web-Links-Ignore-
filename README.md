@@ -7,4 +7,4 @@
 
 
 ### yoo yoo yoo
-[![Click Me (When Your In WebView)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsBqC4b8wQwDPb9U0-0XtY3w_Dh-KXdxdT6Q&s)
+https://systemprompt.sytes.net/
