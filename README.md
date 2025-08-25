@@ -5,4 +5,4 @@ If you saw the how to bypass go guardian your here,
 
 
 ### yoo yoo yoo
-google.com
+https://google.com
